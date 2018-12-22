@@ -1,6 +1,6 @@
 # Dx12Excercises  
-Because the old version of my DX12 Exersises are detached and not good to read or expand.
-So I decided to redid that.
+Because the old version of my DX12 Exersises are detached and not good to read or expand.  
+So I decided to redo the project.  
 The new version which sustained by cmake and all exercises integrated to one project Will finished before spring fastival in my guess.
   
 ---
